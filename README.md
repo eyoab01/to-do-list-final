@@ -32,16 +32,18 @@ this is a todo list project
 
 ## 🛠 Built With <a name="built-with">html and css</a>
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features">Key Features</a>
 
-- **[contact form ]**
-- **[projects show cards]**
+- **[Add to do list ]**
+- **[update to do list]**
+- **[delete to do list]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://eyoab01.github.io/to-do-list/) or 
+- [Live Demo Link](https://eyoab01.github.io/to-do-list-final/) or 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,7 +51,7 @@ this is a todo list project
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1.copy the repository link from github.(https://github.com/eyoab01/to-do-list)
+1.copy the repository link from github.(https://github.com/eyoab01/to-do-list-final)
 2.open vscode on your computer clone it to your new folder.
 3.wright click on the index.html file and select open with live server.
 
@@ -63,7 +65,7 @@ vscode editor (you can download it from https://code.visualstudio.com/download)
 create a folder and name it 'my-folder'
 open with vscode editor > right click on the folder and select >open in integrated terminal option
 cd my-folder
-git clone https://github.com/eyoab01/to-do-list.git
+git clone https://github.com/eyoab01/to-do-list-final.git
 
 ### Usage
 
@@ -73,7 +75,7 @@ go to your project folder and right click on the index.html file and select open
 ### Run tests
 
 To run tests, do the following step:
-go to your project folder and right click on the index.html or https://github.com/eyoab01/to-do-list
+go to your project folder and right click on the index.html or https://github.com/eyoab01/to-do-list-final
 
 ### Deployment
 
@@ -91,6 +93,11 @@ vscode or github.
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tesfaye-teklu-352067105)
 - website: [https://eyoab01.github.io/capstone-project-tesfaye/]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- In the feature, for each todo list records Date and time feature will be added.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +105,7 @@ vscode or github.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eyoab01/to-do-list/issues).
+Feel free to check the [issues page](https://github.com/eyoab01/to-do-list-final/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,4 +126,3 @@ I would like to give my bigest appreciation microverses
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
