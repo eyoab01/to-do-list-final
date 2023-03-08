@@ -43,7 +43,7 @@ this is a todo list project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://eyoab01.github.io/to-do-list-final/) or 
+- [Live Demo Link](https://eyoab01.github.io/to-do-list-final) or 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
